@@ -69,14 +69,6 @@ The goal is to help brands feel established.
 
 ---
 
-## ✦ Connect With Vynix Studio
-
-* Portfolio — Coming Soon
-* Instagram — Coming Soon
-* Contact — Coming Soon
-
----
-
 <div align="center">
 
 ### Designed with intention.
