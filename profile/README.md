@@ -1,6 +1,4 @@
 <div align="center">
-
-  #  Vynix Studio
   
 ### Crafting Digital Experiences That Feel Premium, Timeless & Human.
 
