@@ -1,7 +1,6 @@
-# Vynix Studio
-
 <div align="center">
-
+# Vynix Studio
+  
 ### Crafting Digital Experiences That Feel Premium, Timeless & Human.
 
 Built for brands that want more than just “a website”.
